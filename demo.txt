@@ -1,1 +1,1 @@
-Hi! This is a Git Demo! Revoking the change :(
+Hi! This is a Git Demo!
